@@ -1,0 +1,2 @@
+D:\4827\CalculatorConsoleApplication1\CalculatorConsoleApplication1\bin\Debug\CalculatorConsoleApplication1.exe.config
+D:\4827\CalculatorConsoleApplication1\CalculatorConsoleApplication1\obj\Debug\CalculatorConsoleApplication1.csprojResolveAssemblyReference.cache
